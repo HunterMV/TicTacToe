@@ -1,2 +1,2 @@
 # TicTacToe
- Simply Unity game
+ Simple Unity game
